@@ -1,0 +1,12 @@
+.imageSize{
+    display: flex;
+    flex-wrap: wrap;
+    // align-items: center;
+    justify-content: center;
+}
+.imageSize .ui.image{
+    max-width: fit-content;
+}
+.imageBlock{
+ margin: 0.5rem;
+}

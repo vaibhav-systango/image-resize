@@ -1,0 +1,53 @@
+.auto img{
+    align-self: center;
+    max-width: 100%;
+    max-height: 420px;
+}
+.auto{
+    max-height: 450px;
+}
+.auto i{
+    margin: auto;    
+}
+.resizerForm{
+    .submitBtn {      
+        border-radius: 0;
+        font-weight: 400;
+        letter-spacing: 1px;
+        font-family: var(--Gothic-font-family);
+        font-size: 16px;
+        padding: 12px 10px;
+        min-width: 150px;    
+        border: 2px solid #1b1c1d;
+    }
+    .TestBtn{
+        color: #1b1c1d;
+        background: #fff;
+        border-color: #1b1c1d;
+        border-width: 2px;
+        border-radius: 0;
+        font-weight: 400;
+        letter-spacing: 1px;
+        font-family: var(--Gothic-font-family);
+        font-size: 16px;
+        padding: 12px 10px;
+        min-width: 150px;  
+        border: 2px solid #1b1c1d;
+    }
+    .resrBtn{
+        background: #f4821e;
+        border-radius: 0;
+        font-weight: 400;
+        letter-spacing: 1px;
+        font-family: var(--Gothic-font-family);
+        font-size: 16px;
+        padding: 12px 10px;
+        min-width: 150px;    
+        border: 2px solid #f4821e;
+        color: #fff;
+        &:hover{
+            color: #f4821e;
+            background: #fff;
+        }
+    }
+}
