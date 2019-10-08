@@ -15,7 +15,7 @@ const App = (props) => {
     <>
       <TopHeader history={history} />
       <Container>
-        <center><div style={{ fontSize: '30px', fontWeight: 'bold' }}>Image Resize</div></center>
+        <center><div style={{ fontSize: '30px', fontWeight: 'bold' }}>Image Resize Test App</div></center>
         <CustomForm history={history} />
       </Container>
     </>

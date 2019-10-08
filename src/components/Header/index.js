@@ -3,7 +3,7 @@
 /* eslint-disable jsx-a11y/label-has-for */
 import React, { Component } from 'react';
 import { Image, Segment } from 'semantic-ui-react';
-import Logo from './logo.svg';
+import Logo from './logo.png';
 
 class TopHeader extends Component {
   render() {
